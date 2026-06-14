@@ -23,7 +23,7 @@ This project is a simple AI-powered plagiarism detection system developed using 
 ## Project Structure
 
 ```
-task3_plagiarismchecker/
+task3plagiarismchecker
 │
 ├── student1.txt
 ├── student2.txt
